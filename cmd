@@ -1,3 +1,5 @@
+show tables;
+describe name_of_table; {to get data use the previous command}
 to connect : mysql -u root -p database name;
 to show table : select * from tablename; 
 to declare variable set @yahya=7;

@@ -3,6 +3,7 @@ drop table table_name      ===>> to delete a table
 describe name_of_table; {to get data use the previous command}
 to connect : mysql -u root -p database name;
 to show table : select * from tablename; 
+check if database exist ==> select schema_name from information_schema.schemata where schema_name = 'name of database';
 to declare variable set @yahya=7;
 to insert data insert into fbk  (email,password,id ) values ("alex@gmail.com",1010,2);
 how to delete delete from fbtable_namek where row=value of row;

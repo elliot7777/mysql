@@ -1,4 +1,5 @@
 show tables;
+drop table table_name      ===>> to delete a table
 describe name_of_table; {to get data use the previous command}
 to connect : mysql -u root -p database name;
 to show table : select * from tablename; 

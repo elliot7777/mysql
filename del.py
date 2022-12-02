@@ -1,14 +1,1 @@
-print("3: teste l'address de boucclage") 
-print("4: voire les taches en cours") 
-print("5: test l'address pupublique de quelqu'un sur Internet") 
-print("6: tester la reponse de mon serveur dns en utilisant leur nom ") 
-print("7: voire IP configuration") print("8 verifier la connectiviter d'un hote qui est deja connecter q notre reseau \n")
-xx = input('\nverifier la: ') 
-if xx == '1':1 
-x = subprocess.getoutput print(x) 
-elif xx == 2: x = subprocess.getouput print(x) 
-elif xx == "3": 
-x = subprocess.getoutput print(x) 
-elif xx == '4': x = subprocess.getoutput print(xx)
-elif xx == '5': 
-('nslookup compagnie.lan') ('ping sv.compagnie.lan -c3') ('ping 127.0.0.1 -c3') ('netstat -an') 
+import subprocess import colorama print('\n T E 5 T\n') print("\xlb[31m N 0 T E\n'') print("pour les testes qui necessite l'utilistation de ping tu dois attendre 3 ou 4 seconds") prinWpour recevoir la repone ') print('les pings sont configurer pour envoyer juste deux paquetes pour des raisons de scripts') prinWpourtant si tu veux envoyer plus des paquetes tu dois changer -c2 parexemple -c23 ') prinWmais tu dois attendre plus de temps\x1b[37m \n') print('1: verification des enregistrement du dns') print('2: verification de la connectivite') print("3: teste l'address de boucclage") print("4: voire les taches en cours") print("5: test l'address pupublique de quelqu'un sur Internet") print("6: tester la reponse de mon serveur dns en utilisant leur nom ") print("7: voire IP configuration") print("8 verifier la connectiviter d'un hote qui est deja connecter q notre reseau \n") xx = input('\nverifier la: ') if xx == '1':1 x = subprocess.getoutput print(x) elif xx == 2: x = subprocess.getouput print(x) elif xx == "3": x = subprocess.getoutput print(x) elif xx == '4': x = subprocess.getoutput print(xx) elif xx == '5': 

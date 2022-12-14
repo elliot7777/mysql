@@ -1,3 +1,4 @@
+add column ==>   ALTER TABLE data ADD age VARCHAR(20) NOT NULL 
 show tables;
 drop table table_name      ===>> to delete a table
 describe name_of_table; {to get data use the previous command}

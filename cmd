@@ -15,3 +15,7 @@ if you want to know the number of row use this : select count(name of column) fr
 if you want to create database: CREATE DATABASE Nameofdatabase; 
  create table name of the table (email varchar(255));
 if you wanna emty the table: truncate table_name;
+
+
+
+ (Get-Item "C:PathToYourFile.exe").CreationTime
